@@ -20,7 +20,12 @@ I really enjoy spending time with my friends and family. I love to go bike ridin
 - Post Malone
 - SZA
 
-
+## Photo Gallery
+![image](https://user-images.githubusercontent.com/70119938/92271114-3beb7780-eeb5-11ea-80b4-07821f4ce503.png)
+![image](https://user-images.githubusercontent.com/70119938/92271205-62111780-eeb5-11ea-8e31-5cabca709fec.png)
+![image](https://user-images.githubusercontent.com/70119938/92271233-6fc69d00-eeb5-11ea-823e-3ff9c49b7941.png)
+![image](https://user-images.githubusercontent.com/70119938/92271250-76edab00-eeb5-11ea-8306-dd18c1505611.png)
+![image](https://user-images.githubusercontent.com/70119938/92271424-c6cc7200-eeb5-11ea-9cc5-4a4482a4cb12.png)
 
 Thanks for Visiting :) !! 
 
