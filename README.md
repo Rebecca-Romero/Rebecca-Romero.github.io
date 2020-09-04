@@ -14,6 +14,12 @@ I really enjoy spending time with my friends and family. I love to go bike ridin
 - The Vampire Diaries 
 - Shameless
 
+### Favorite Artists
+- Ariana Grande
+- Russ
+- Post Malone
+- SZA
+
 
 
 Thanks for Visiting :) !! 
