@@ -1,5 +1,5 @@
-# Hello! My name is Rebecca Romero and Welcome to my first website! 
-Im a sophomore ISAT major and Im interested in possibly concentrating in Biotechnology!
+# Hello! My name is Rebecca Romero and welcome to my first website! 
+I'm a sophomore ISAT major and Im interested in possibly concentrating in Biotechnology!
 
 
 ## About me 
