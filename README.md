@@ -9,25 +9,14 @@ I am from Gainesville, Virginia where I graduated from Patriot High School. I ha
 I really enjoy spending time with my friends and family. I love to go bike riding, hiking, skiing, camping, and I really enjoy going to the beach too. Some countries I have visited are Puerto Rico, Mexico, Costa Rica, and the Dominican Rupublic. However, I hope to travel all around the world in the future and explore other cultures! Im definetly an adrenaline junky and love to ride rollercoasters, so im sad that amusement parks like Kings Dominion or Busch Gardens are closed. 
 
 
-### Shows Im watching on Netflix right now
-- Avatar the Last Airbender
-- The Vampire Diaries 
-- Shameless
+### Programming in 252
+![Screen Shot 2020-12-03 at 4 14 00 PM](https://user-images.githubusercontent.com/70119938/101089100-b003ed00-3582-11eb-9b5b-a0d5a5aba783.png)
+The first program that ran successfully for me would be the Hello World! program as you can see from the screenshot. I didnt have any complications as it was simple to follow, however I was unable to bring up vs code from the terminal by the following command " code ." This wasnt detrimental because I just opened vs code manually and everything was there in my virtual environment. 
 
-### Favorite Artists
-- Ariana Grande
-- Russ
-- Post Malone
-- SZA
 
-## Photo Gallery
-![image](https://user-images.githubusercontent.com/70119938/92271114-3beb7780-eeb5-11ea-80b4-07821f4ce503.png)
-![image](https://user-images.githubusercontent.com/70119938/92271205-62111780-eeb5-11ea-8e31-5cabca709fec.png)
-![image](https://user-images.githubusercontent.com/70119938/92271233-6fc69d00-eeb5-11ea-823e-3ff9c49b7941.png)
-![image](https://user-images.githubusercontent.com/70119938/92271250-76edab00-eeb5-11ea-8306-dd18c1505611.png)
-![image](https://user-images.githubusercontent.com/70119938/92271424-c6cc7200-eeb5-11ea-9cc5-4a4482a4cb12.png)
 
-Thanks for Visiting :) !! 
+
+
 
 
 
