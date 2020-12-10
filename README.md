@@ -11,9 +11,11 @@ I really enjoy spending time with my friends and family. I love to go bike ridin
 
 ### Programming in 252
 ![Screen Shot 2020-12-03 at 4 14 00 PM](https://user-images.githubusercontent.com/70119938/101089100-b003ed00-3582-11eb-9b5b-a0d5a5aba783.png)
+
+
 The first program that ran successfully for me would be the Hello World! program as you can see from the screenshot. I didnt have any complications as it was simple to follow, however I was unable to bring up vs code from the terminal by the following command " code ." This wasnt detrimental because I just opened vs code manually and everything was there in my virtual environment. 
 
-
+![Screen Shot 2020-12-10 at 3 54 00 PM](https://user-images.githubusercontent.com/70119938/101828890-29aa5680-3b00-11eb-8055-5d670d56ed4d.png)
 
 
 
