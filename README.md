@@ -34,9 +34,16 @@ Heres my progress on freecodecamp.com where I followed tutorials on Python basic
 I was unable to get a screenshot of it running properly at the time I worked on it, but heres the link to the repository :https://github.com/Rebecca-Romero/converters-tdd-python 
 The link to Morgans Tutorial for Python: https://www.youtube.com/watch?v=_mLfyQkQzA4&t=3592s
 
-![IMG_6703](https://user-images.githubusercontent.com/70119938/102094091-e7c72c00-3def-11eb-89d0-d03d86109706.jpeg)
+### Paper Saver Project 
 ![IMG_4271](https://user-images.githubusercontent.com/70119938/102094121-f0b7fd80-3def-11eb-9592-7589712a587e.jpeg)
 
-
+In a group with Abby, Ava, and Nick, we programmed a pop-up that is triggered every time a user presses print. Once the user presses print, the first pop-up asks the question, “ are you sure you want to print?” , and there's a yes or no selection. If the user presses no, another pop-up occurs with an awesome gif and a few interesting facts about the current state of our environment as you can see from the image above. This program was made to help promote being environmentally friendly by discouraging the user to print.
+Below is the zip folder that contails all the files for our project including the executable. 
 <iframe src="https://drive.google.com/file/d/1QgmYS9QaXi-SD9FakUBb0nSIxKkcv3DE/preview" width="640" height="480"></iframe>
 
+Below is the link to Nick Bowers Github repository that contains all of the code for our paper-saver project. 
+https://github.com/Bower3jn/paper-saver
+
+### Narrative 
+Heres the link to my personal narrative where I reflect on this semester !
+https://docs.google.com/document/d/1EljgP5sjFdlbz_jeMPoZWlg17heRCE58a9Ocutv2ju4/edit?usp=sharing
